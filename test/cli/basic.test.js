@@ -72,6 +72,36 @@ describe("basic", () => {
       expect(normalizeStderr(stderr)).toMatchSnapshot("stderr");
     });
 
+    it("should show info message when output.publicPath equals 'auto'", async () => {
+      const { exitCode, stderr } = await testBin([
+        "--config",
+        path.resolve(
+          __dirname,
+          "../fixtures/cli-output-public-path-auto-config/webpack.config.js",
+        ),
+        "--port",
+        port,
+      ]);
+
+      expect(exitCode).toEqual(0);
+      expect(normalizeStderr(stderr)).toMatchSnapshot("stderr");
+    });
+
+    it("should show info message when output.publicPath is function", async () => {
+      const { exitCode, stderr } = await testBin([
+        "--config",
+        path.resolve(
+          __dirname,
+          "../fixtures/cli-output-public-path-function-config/webpack.config.js",
+        ),
+        "--port",
+        port,
+      ]);
+
+      expect(exitCode).toEqual(0);
+      expect(normalizeStderr(stderr)).toMatchSnapshot("stderr");
+    });
+
     it("should work using multi compiler mode", async () => {
       const { exitCode, stderr } = await testBin([
         "--config",
