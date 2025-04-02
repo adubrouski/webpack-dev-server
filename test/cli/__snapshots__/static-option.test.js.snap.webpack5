@@ -5,8 +5,7 @@ exports[`"static" CLI option should work using "--no-static-serve-index": stderr
 <i> Loopback: http://localhost:<port>/, http://<ip-v4>:<port>/, http://[<ip-v6>]:<port>/
 <i> [webpack-dev-server] On Your Network (IPv4): http://<ip-v4>:<port>/
 <i> [webpack-dev-server] On Your Network (IPv6): http://[<ip-v6>]:<port>/
-<i> [webpack-dev-server] Content not from webpack is served from '<cwd>/public' directory
-<i> [webpack-dev-server] You probably have a custom public path, please navigate in your browser to the point that you required"
+<i> [webpack-dev-server] Content not from webpack is served from '<cwd>/public' directory"
 `;
 
 exports[`"static" CLI option should work using "--no-static-watch": stderr 1`] = `
@@ -14,8 +13,7 @@ exports[`"static" CLI option should work using "--no-static-watch": stderr 1`] =
 <i> Loopback: http://localhost:<port>/, http://<ip-v4>:<port>/, http://[<ip-v6>]:<port>/
 <i> [webpack-dev-server] On Your Network (IPv4): http://<ip-v4>:<port>/
 <i> [webpack-dev-server] On Your Network (IPv6): http://[<ip-v6>]:<port>/
-<i> [webpack-dev-server] Content not from webpack is served from '<cwd>/public' directory
-<i> [webpack-dev-server] You probably have a custom public path, please navigate in your browser to the point that you required"
+<i> [webpack-dev-server] Content not from webpack is served from '<cwd>/public' directory"
 `;
 
 exports[`"static" CLI option should work using "--static new-static --static other-static": stderr 1`] = `
@@ -23,8 +21,7 @@ exports[`"static" CLI option should work using "--static new-static --static oth
 <i> Loopback: http://localhost:<port>/, http://<ip-v4>:<port>/, http://[<ip-v6>]:<port>/
 <i> [webpack-dev-server] On Your Network (IPv4): http://<ip-v4>:<port>/
 <i> [webpack-dev-server] On Your Network (IPv6): http://[<ip-v6>]:<port>/
-<i> [webpack-dev-server] Content not from webpack is served from 'new-static, other-static' directory
-<i> [webpack-dev-server] You probably have a custom public path, please navigate in your browser to the point that you required"
+<i> [webpack-dev-server] Content not from webpack is served from 'new-static, other-static' directory"
 `;
 
 exports[`"static" CLI option should work using "--static new-static": stderr 1`] = `
@@ -32,8 +29,7 @@ exports[`"static" CLI option should work using "--static new-static": stderr 1`]
 <i> Loopback: http://localhost:<port>/, http://<ip-v4>:<port>/, http://[<ip-v6>]:<port>/
 <i> [webpack-dev-server] On Your Network (IPv4): http://<ip-v4>:<port>/
 <i> [webpack-dev-server] On Your Network (IPv6): http://[<ip-v6>]:<port>/
-<i> [webpack-dev-server] Content not from webpack is served from 'new-static' directory
-<i> [webpack-dev-server] You probably have a custom public path, please navigate in your browser to the point that you required"
+<i> [webpack-dev-server] Content not from webpack is served from 'new-static' directory"
 `;
 
 exports[`"static" CLI option should work using "--static": stderr 1`] = `
@@ -41,8 +37,7 @@ exports[`"static" CLI option should work using "--static": stderr 1`] = `
 <i> Loopback: http://localhost:<port>/, http://<ip-v4>:<port>/, http://[<ip-v6>]:<port>/
 <i> [webpack-dev-server] On Your Network (IPv4): http://<ip-v4>:<port>/
 <i> [webpack-dev-server] On Your Network (IPv6): http://[<ip-v6>]:<port>/
-<i> [webpack-dev-server] Content not from webpack is served from '<cwd>/public' directory
-<i> [webpack-dev-server] You probably have a custom public path, please navigate in your browser to the point that you required"
+<i> [webpack-dev-server] Content not from webpack is served from '<cwd>/public' directory"
 `;
 
 exports[`"static" CLI option should work using "--static-directory static-dir": stderr 1`] = `
@@ -50,8 +45,7 @@ exports[`"static" CLI option should work using "--static-directory static-dir": 
 <i> Loopback: http://localhost:<port>/, http://<ip-v4>:<port>/, http://[<ip-v6>]:<port>/
 <i> [webpack-dev-server] On Your Network (IPv4): http://<ip-v4>:<port>/
 <i> [webpack-dev-server] On Your Network (IPv6): http://[<ip-v6>]:<port>/
-<i> [webpack-dev-server] Content not from webpack is served from 'static-dir' directory
-<i> [webpack-dev-server] You probably have a custom public path, please navigate in your browser to the point that you required"
+<i> [webpack-dev-server] Content not from webpack is served from 'static-dir' directory"
 `;
 
 exports[`"static" CLI option should work using "--static-public-path /public": stderr 1`] = `
@@ -59,8 +53,7 @@ exports[`"static" CLI option should work using "--static-public-path /public": s
 <i> Loopback: http://localhost:<port>/, http://<ip-v4>:<port>/, http://[<ip-v6>]:<port>/
 <i> [webpack-dev-server] On Your Network (IPv4): http://<ip-v4>:<port>/
 <i> [webpack-dev-server] On Your Network (IPv6): http://[<ip-v6>]:<port>/
-<i> [webpack-dev-server] Content not from webpack is served from '<cwd>/public' directory
-<i> [webpack-dev-server] You probably have a custom public path, please navigate in your browser to the point that you required"
+<i> [webpack-dev-server] Content not from webpack is served from '<cwd>/public' directory"
 `;
 
 exports[`"static" CLI option should work using "--static-public-path-reset": stderr 1`] = `
@@ -68,8 +61,7 @@ exports[`"static" CLI option should work using "--static-public-path-reset": std
 <i> Loopback: http://localhost:<port>/, http://<ip-v4>:<port>/, http://[<ip-v6>]:<port>/
 <i> [webpack-dev-server] On Your Network (IPv4): http://<ip-v4>:<port>/
 <i> [webpack-dev-server] On Your Network (IPv6): http://[<ip-v6>]:<port>/
-<i> [webpack-dev-server] Content not from webpack is served from '<cwd>/public' directory
-<i> [webpack-dev-server] You probably have a custom public path, please navigate in your browser to the point that you required"
+<i> [webpack-dev-server] Content not from webpack is served from '<cwd>/public' directory"
 `;
 
 exports[`"static" CLI option should work using "--static-reset --static-directory new-static-directory": stderr 1`] = `
@@ -77,8 +69,7 @@ exports[`"static" CLI option should work using "--static-reset --static-director
 <i> Loopback: http://localhost:<port>/, http://<ip-v4>:<port>/, http://[<ip-v6>]:<port>/
 <i> [webpack-dev-server] On Your Network (IPv4): http://<ip-v4>:<port>/
 <i> [webpack-dev-server] On Your Network (IPv6): http://[<ip-v6>]:<port>/
-<i> [webpack-dev-server] Content not from webpack is served from 'new-static-directory' directory
-<i> [webpack-dev-server] You probably have a custom public path, please navigate in your browser to the point that you required"
+<i> [webpack-dev-server] Content not from webpack is served from 'new-static-directory' directory"
 `;
 
 exports[`"static" CLI option should work using "--static-reset": stderr 1`] = `
@@ -86,8 +77,7 @@ exports[`"static" CLI option should work using "--static-reset": stderr 1`] = `
 <i> Loopback: http://localhost:<port>/, http://<ip-v4>:<port>/, http://[<ip-v6>]:<port>/
 <i> [webpack-dev-server] On Your Network (IPv4): http://<ip-v4>:<port>/
 <i> [webpack-dev-server] On Your Network (IPv6): http://[<ip-v6>]:<port>/
-<i> [webpack-dev-server] Content not from webpack is served from 'new-static-after-reset' directory
-<i> [webpack-dev-server] You probably have a custom public path, please navigate in your browser to the point that you required"
+<i> [webpack-dev-server] Content not from webpack is served from 'new-static-after-reset' directory"
 `;
 
 exports[`"static" CLI option should work using "--static-serve-index": stderr 1`] = `
@@ -95,8 +85,7 @@ exports[`"static" CLI option should work using "--static-serve-index": stderr 1`
 <i> Loopback: http://localhost:<port>/, http://<ip-v4>:<port>/, http://[<ip-v6>]:<port>/
 <i> [webpack-dev-server] On Your Network (IPv4): http://<ip-v4>:<port>/
 <i> [webpack-dev-server] On Your Network (IPv6): http://[<ip-v6>]:<port>/
-<i> [webpack-dev-server] Content not from webpack is served from '<cwd>/public' directory
-<i> [webpack-dev-server] You probably have a custom public path, please navigate in your browser to the point that you required"
+<i> [webpack-dev-server] Content not from webpack is served from '<cwd>/public' directory"
 `;
 
 exports[`"static" CLI option should work using "--static-watch": stderr 1`] = `
@@ -104,6 +93,5 @@ exports[`"static" CLI option should work using "--static-watch": stderr 1`] = `
 <i> Loopback: http://localhost:<port>/, http://<ip-v4>:<port>/, http://[<ip-v6>]:<port>/
 <i> [webpack-dev-server] On Your Network (IPv4): http://<ip-v4>:<port>/
 <i> [webpack-dev-server] On Your Network (IPv6): http://[<ip-v6>]:<port>/
-<i> [webpack-dev-server] Content not from webpack is served from '<cwd>/public' directory
-<i> [webpack-dev-server] You probably have a custom public path, please navigate in your browser to the point that you required"
+<i> [webpack-dev-server] Content not from webpack is served from '<cwd>/public' directory"
 `;

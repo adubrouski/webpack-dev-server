@@ -5,8 +5,7 @@ exports[`colors should work and do not use colors using configuration with disab
 <i> Loopback: http://localhost:<port>/, http://<ip-v4>:<port>/, http://[<ip-v6>]:<port>/
 <i> [webpack-dev-server] On Your Network (IPv4): http://<ip-v4>:<port>/
 <i> [webpack-dev-server] On Your Network (IPv6): http://[<ip-v6>]:<port>/
-<i> [webpack-dev-server] Content not from webpack is served from '<cwd>/public' directory
-<i> [webpack-dev-server] You probably have a custom public path, please navigate in your browser to the point that you required"
+<i> [webpack-dev-server] Content not from webpack is served from '<cwd>/public' directory"
 `;
 
 exports[`colors should work do not use colors using "--no-color": stderr 1`] = `
@@ -14,8 +13,7 @@ exports[`colors should work do not use colors using "--no-color": stderr 1`] = `
 <i> Loopback: http://localhost:<port>/, http://<ip-v4>:<port>/, http://[<ip-v6>]:<port>/
 <i> [webpack-dev-server] On Your Network (IPv4): http://<ip-v4>:<port>/
 <i> [webpack-dev-server] On Your Network (IPv6): http://[<ip-v6>]:<port>/
-<i> [webpack-dev-server] Content not from webpack is served from '<cwd>/public' directory
-<i> [webpack-dev-server] You probably have a custom public path, please navigate in your browser to the point that you required"
+<i> [webpack-dev-server] Content not from webpack is served from '<cwd>/public' directory"
 `;
 
 exports[`colors should work use colors by default: stderr 1`] = `
@@ -23,8 +21,7 @@ exports[`colors should work use colors by default: stderr 1`] = `
 <i> Loopback: http://localhost:<port>/, http://<ip-v4>:<port>/, http://[<ip-v6>]:<port>/
 <i> [webpack-dev-server] On Your Network (IPv4): http://<ip-v4>:<port>/
 <i> [webpack-dev-server] On Your Network (IPv6): http://[<ip-v6>]:<port>/
-<i> [webpack-dev-server] Content not from webpack is served from '<cwd>/public' directory
-<i> [webpack-dev-server] You probably have a custom public path, please navigate in your browser to the point that you required"
+<i> [webpack-dev-server] Content not from webpack is served from '<cwd>/public' directory"
 `;
 
 exports[`colors should work use colors using "--color": stderr 1`] = `
@@ -32,8 +29,7 @@ exports[`colors should work use colors using "--color": stderr 1`] = `
 <i> Loopback: http://localhost:<port>/, http://<ip-v4>:<port>/, http://[<ip-v6>]:<port>/
 <i> [webpack-dev-server] On Your Network (IPv4): http://<ip-v4>:<port>/
 <i> [webpack-dev-server] On Your Network (IPv6): http://[<ip-v6>]:<port>/
-<i> [webpack-dev-server] Content not from webpack is served from '<cwd>/public' directory
-<i> [webpack-dev-server] You probably have a custom public path, please navigate in your browser to the point that you required"
+<i> [webpack-dev-server] Content not from webpack is served from '<cwd>/public' directory"
 `;
 
 exports[`colors should work use colors using configuration with enabled colors: stderr 1`] = `
@@ -41,6 +37,5 @@ exports[`colors should work use colors using configuration with enabled colors: 
 <i> Loopback: http://localhost:<port>/, http://<ip-v4>:<port>/, http://[<ip-v6>]:<port>/
 <i> [webpack-dev-server] On Your Network (IPv4): http://<ip-v4>:<port>/
 <i> [webpack-dev-server] On Your Network (IPv6): http://[<ip-v6>]:<port>/
-<i> [webpack-dev-server] Content not from webpack is served from '<cwd>/public' directory
-<i> [webpack-dev-server] You probably have a custom public path, please navigate in your browser to the point that you required"
+<i> [webpack-dev-server] Content not from webpack is served from '<cwd>/public' directory"
 `;
